@@ -100,3 +100,79 @@ The dashboard displays the updated information.
 
 - The information displayed on the Dashboard depends on your user role.
 - The Dashboard updates automatically at regular intervals.
+
+# Managing Products
+
+The **Products** module allows authorized users to add, update, view, and remove product information.
+
+## Add a Product
+
+### Prerequisites
+
+- You have the **Product Manager** or **Administrator** role.
+
+### Procedure
+
+1. Select **Products** from the navigation menu.
+2. Click **Add Product**.
+3. Enter the required product information:
+   - Product Name
+   - Product ID
+   - Category
+   - Supplier
+   - Unit Price
+   - Initial Stock Quantity
+4. Click **Save**.
+
+### Result
+
+The system creates the product and displays a confirmation message. The product appears in the product list.
+
+---
+
+## Edit a Product
+
+### Procedure
+
+1. Open the **Products** page.
+2. Search for the required product.
+3. Select the product.
+4. Click **Edit**.
+5. Update the required information.
+6. Click **Save**.
+
+### Result
+
+The system updates the product information successfully.
+
+---
+
+## Delete a Product
+
+### Procedure
+
+1. Open the **Products** page.
+2. Select the product.
+3. Click **Delete**.
+4. Read the confirmation message.
+5. Click **Confirm**.
+
+### Result
+
+The system removes the product from the inventory.
+
+> **Note:** Deleted products cannot be restored unless a backup is available.
+
+---
+
+## Search for a Product
+
+### Procedure
+
+1. Open the **Products** page.
+2. Enter the product name or Product ID in the search box.
+3. Press **Enter** or click **Search**.
+
+### Result
+
+The system displays the matching products.
