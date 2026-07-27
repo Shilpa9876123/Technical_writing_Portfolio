@@ -175,4 +175,55 @@ The system removes the product from the inventory.
 
 ### Result
 
+# Managing Inventory
+
+The **Inventory** module allows users to monitor and maintain accurate stock levels.
+
+## Update Inventory
+
+### Procedure
+
+1. Select **Inventory** from the navigation menu.
+2. Search for the required product.
+3. Select the product.
+4. Click **Update Stock**.
+5. Enter the updated stock quantity.
+6. Click **Save**.
+
+### Result
+
+The system updates the inventory quantity and displays a confirmation message.
+
+---
+
+## Transfer Inventory
+
+### Procedure
+
+1. Open the **Inventory** page.
+2. Select the product.
+3. Click **Transfer Stock**.
+4. Select the destination warehouse.
+5. Enter the quantity to transfer.
+6. Click **Transfer**.
+
+### Result
+
+The inventory is transferred to the selected warehouse.
+
+---
+
+## Stock Adjustment
+
+### Procedure
+
+1. Open the **Inventory** page.
+2. Select the required product.
+3. Click **Adjust Stock**.
+4. Enter the adjustment quantity and reason.
+5. Click **Save**.
+
+### Result
+
+The inventory quantity is adjusted successfully.
 The system displays the matching products.
