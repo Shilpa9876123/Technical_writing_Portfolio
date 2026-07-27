@@ -223,6 +223,141 @@ The inventory is transferred to the selected warehouse.
 4. Enter the adjustment quantity and reason.
 5. Click **Save**.
 
+# Managing Orders
+
+The **Orders** module allows users to create and manage purchase and sales orders.
+
+## Create a Purchase Order
+
+### Procedure
+
+1. Select **Orders** from the navigation menu.
+2. Click **New Purchase Order**.
+3. Select the supplier.
+4. Add the required products.
+5. Enter the quantity.
+6. Click **Submit**.
+
+### Result
+
+The purchase order is created successfully.
+
+---
+
+## Create a Sales Order
+
+### Procedure
+
+1. Open the **Orders** page.
+2. Click **New Sales Order**.
+3. Select the customer.
+4. Add the required products.
+5. Enter the quantity.
+6. Click **Submit**.
+
+### Result
+
+The sales order is created successfully.
+
+---
+
+## Update Order Status
+
+### Procedure
+
+1. Open the required order.
+2. Click **Edit**.
+3. Select the new order status.
+4. Click **Save**.
+
+### Result
+
+The system updates the order status.
+
+# Reports
+
+The **Reports** module provides inventory and order reports for business analysis.
+
+## Generate an Inventory Report
+
+### Procedure
+
+1. Select **Reports** from the navigation menu.
+2. Select **Inventory Report**.
+3. Choose the required date range.
+4. Click **Generate**.
+
+### Result
+
+The Inventory Report is displayed.
+
+---
+
+## Export a Report
+
+### Procedure
+
+1. Generate the required report.
+2. Click **Export**.
+3. Select the file format.
+4. Click **Download**.
+
+### Result
+
+The report is downloaded to your computer.
+
+# Notifications
+
+The system displays notifications to inform users about important inventory events.
+
+Notifications include:
+
+- Low stock alerts
+- Order confirmations
+- Inventory updates
+- System announcements
+
+Users can select the notification icon to view recent notifications.
+
+# Troubleshooting
+
+| Issue | Resolution |
+|--------|------------|
+| Unable to sign in | Verify your username and password. Contact the administrator if the issue persists. |
+| Product not found | Verify the Product ID or product name. |
+| Report generation failed | Check your internet connection and try again. |
+| Inventory quantity is incorrect | Refresh the page. If the issue continues, contact the system administrator. |
+| Unable to export reports | Verify that pop-ups are enabled in your browser. |
+
+# Frequently Asked Questions
+
+## Can I recover a deleted product?
+
+No. Deleted products cannot be restored unless a system backup is available.
+
+---
+
+## Who can update inventory?
+
+Only users with the required permissions can update inventory.
+
+---
+
+## Which browsers are supported?
+
+The application supports Google Chrome, Microsoft Edge, and Mozilla Firefox.
+
+---
+
+## Can I export reports?
+
+Yes. Reports can be exported in the available file formats from the **Reports** module.
+
+---
+
+## How do I reset my password?
+
+Select **Forgot Password** on the Sign In page and follow the on-screen instructions.
 ### Result
 
 The inventory quantity is adjusted successfully.
