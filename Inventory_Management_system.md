@@ -62,3 +62,41 @@ To log in to the Inventory Management System:
 4. Click **Sign In**.
 
 The Dashboard page opens after successful authentication.
+
+# Dashboard
+
+The Dashboard is the home page of the Inventory Management System. It provides an overview of inventory activities and quick access to commonly used modules.
+
+## Dashboard Components
+
+The Dashboard displays the following information:
+
+- Total Products
+- Low Stock Items
+- Pending Purchase Orders
+- Pending Sales Orders
+- Recent Inventory Transactions
+- Notifications
+
+## Navigate to a Module
+
+To access a module:
+
+1. Select the required module from the navigation menu.
+2. Click the module name.
+
+The selected module opens.
+
+## Refresh the Dashboard
+
+To refresh the dashboard data:
+
+1. Click **Refresh**.
+2. Wait for the latest data to load.
+
+The dashboard displays the updated information.
+
+## Notes
+
+- The information displayed on the Dashboard depends on your user role.
+- The Dashboard updates automatically at regular intervals.
