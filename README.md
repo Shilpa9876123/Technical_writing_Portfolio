@@ -6,7 +6,8 @@ This repository showcases documentation samples that demonstrate my experience i
 
 ## Portfolio
 
-### [User Guide] (Inventory_Management_system.md)
+
+
 Comprehensive user documentation for an Inventory Management System.
 
 Topics include:
