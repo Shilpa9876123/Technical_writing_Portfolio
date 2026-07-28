@@ -17,6 +17,7 @@ Topics include:
 - Reports
 - Troubleshooting
 
+[Inventory Management System User Guide](UserGuide/InventoryManagementsystem.md)
 ---
 
 ### API Documentation
