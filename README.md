@@ -6,54 +6,11 @@ This repository showcases documentation samples demonstrating my technical writi
 
 ## Documentation Samples
 
-### User Guide
-Comprehensive user documentation for an Inventory Management System.
-
-Topics include:
-- Getting Started
-- Dashboard
-- Product Management
-- Order Management
-- Reports
-- Troubleshooting
-
----
-
-### API Documentation
-
-REST API documentation including:
-
-- Authentication
-- Endpoints
-- Request Examples
-- Response Examples
-- Error Codes
-
----
-
-### Release Notes
-
-Software release documentation covering:
-
-- New Features
-- Improvements
-- Bug Fixes
-- Known Issues
-
-
-
----
-
-### Knowledge Base
-
-Self-service articles including:
-
-- Reset Password
-- Create User
-- Export Reports
-- Troubleshooting
-
----
+| Document | Description | Status |
+|----------|-------------|--------|
+| 📖 [User Guide](User-Guide/Inventory_Management_system.md) | User documentation for an Inventory Management System | ✅ Complete |
+| 🌐 [API Documentation](API-Documentation/Petstore-API-Guide.md) | REST API documentation using Swagger Petstore | ✅ Complete |
+| 📝 [Release Notes](Release-Notes/Release-v2.0.md) | Software Release Notes | ✅ Complete |
 
 ## Skills Demonstrated
 
