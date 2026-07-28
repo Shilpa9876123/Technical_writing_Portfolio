@@ -26,7 +26,7 @@ The API documentation describes REST API endpoints, request and response formats
 
 The Release Notes summarize new features, enhancements, bug fixes, known issues, and upgrade information for Version 2.0.
 
-- [Release Notes v2.0](Release-Notes/release-notes-v2.0.md)
+- [Release Notes Final Version](Release-Notes/Release-Final_version.md)
 
 ---
 
