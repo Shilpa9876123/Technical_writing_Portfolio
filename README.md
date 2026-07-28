@@ -2,57 +2,15 @@
 
 Welcome to my Technical Writing Portfolio.
 
-This repository showcases documentation samples that demonstrate my experience in creating clear, structured, and user-focused technical documentation.
+This repository showcases documentation samples demonstrating my technical writing skills across user documentation, API documentation, release notes, and knowledge base content.
 
-## Portfolio
+## Documentation Samples
 
-
-
-Comprehensive user documentation for an Inventory Management System.
-
-Topics include:
-- Getting Started
-- Dashboard
-- Product Management
-- Order Management
-- Reports
-- Troubleshooting
-
----
-
-### API Documentation
-
-REST API documentation including:
-
-- Authentication
-- Endpoints
-- Request Examples
-- Response Examples
-- Error Codes
-
----
-
-### Release Notes
-
-Software release documentation covering:
-
-- New Features
-- Improvements
-- Bug Fixes
-- Known Issues
-
----
-
-### Knowledge Base
-
-Self-service articles including:
-
-- Reset Password
-- Create User
-- Export Reports
-- Troubleshooting
-
----
+| Document | Description | Status |
+|----------|-------------|--------|
+| 📖 [User Guide](User-Guide/Inventory_Management_system.md) | User documentation for an Inventory Management System | 
+| 🌐 [API Documentation](API-Documentation/Petstore-API-Guide.md) | REST API documentation using Swagger Petstore | 
+| 📝 [Release Notes](Release-Notes/Release-v2.0.md) | Software Release Notes | 
 
 ## Skills Demonstrated
 
@@ -60,14 +18,20 @@ Self-service articles including:
 - User Documentation
 - API Documentation
 - Release Notes
-- Knowledge Base Articles
 - Markdown
+- GitHub
 - Information Architecture
-- Structured Authoring
+- REST APIs
+- OpenAPI (Swagger)
 
----
+## Tools
 
-**Author**
+- Markdown
+- GitHub
+- Swagger/OpenAPI
+- VS Code
+- Postman
 
-Shilpa Sreedhar P
-Technical Writer
+## About Me
+
+Technical Writer with 3.5 years of experience creating SaaS product documentation, API documentation, release notes, and user guides.
