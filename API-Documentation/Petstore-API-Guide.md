@@ -87,11 +87,103 @@ All API responses are returned in JSON format.
 
 ---
 
-# HTTP Methods
+# Get Pet by ID
 
-| Method | Description |
-|---------|-------------|
-| GET | Retrieve data |
-| POST | Create a resource |
-| PUT | Update a resource |
-| DELETE | Delete a resource |
+Retrieves the details of a specific pet.
+
+## Endpoint
+
+GET /pet/{petId}
+
+## Path Parameter
+
+| Parameter | Type | Required | Description |
+|-----------|------|----------|-------------|
+| petId | Integer | Yes | Unique identifier of the pet |
+
+## Example Request
+
+GET /pet/101
+
+## Success Response
+
+Status Code: 200 OK
+
+## Example Response
+
+```json
+{
+  "id": 101,
+  "name": "Buddy",
+  "status": "available"
+}
+```
+# Update a Pet
+
+Updates an existing pet.
+
+## Endpoint
+
+PUT /pet
+
+## Request Body
+
+| Field | Type | Required | Description |
+|-------|------|----------|-------------|
+| id | Integer | Yes | Pet ID |
+| name | String | Yes | Pet name |
+| status | String | Yes | Current status |
+
+## Example Request
+
+```json
+{
+  "id": 101,
+  "name": "Buddy",
+  "status": "sold"
+}
+```
+
+## Success Response
+
+Status Code: 200 OK
+
+# Delete a Pet
+
+Deletes an existing pet.
+
+## Endpoint
+
+DELETE /pet/{petId}
+
+## Path Parameter
+
+| Parameter | Type | Required | Description |
+|-----------|------|----------|-------------|
+| petId | Integer | Yes | Pet ID |
+
+## Example Request
+
+DELETE /pet/101
+
+## Success Response
+
+Status Code: 200 OK
+
+# Error Codes
+
+| Status Code | Description |
+|------------|-------------|
+| 200 | Request completed successfully |
+| 400 | Invalid request |
+| 401 | Unauthorized |
+| 404 | Resource not found |
+| 500 | Internal server error |
+
+# Best Practices
+
+- Validate request parameters before sending the request.
+- Use HTTPS for all API requests.
+- Handle HTTP status codes appropriately.
+- Store API keys securely.
+- Review API responses before processing the returned data.
