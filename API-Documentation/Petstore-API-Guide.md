@@ -34,6 +34,52 @@ Include the API key in the request header.
 | api_key | Your API Key |
 
 ---
+# Create a Pet
+
+Creates a new pet record.
+
+## Endpoint
+
+```
+POST /pet
+```
+
+## Request Body
+
+| Field | Type | Required | Description |
+|-------|------|----------|-------------|
+| id | Integer | Yes | Unique pet identifier |
+| name | String | Yes | Pet name |
+| category | Object | No | Pet category |
+| status | String | Yes | available, pending, sold |
+
+## Example Request
+
+```json
+{
+  "id": 101,
+  "name": "Buddy",
+  "status": "available"
+}
+```
+
+## Success Response
+
+**Status Code**
+
+```
+200 OK
+```
+
+## Example Response
+
+```json
+{
+  "id":101,
+  "name":"Buddy",
+  "status":"available"
+}
+```
 
 # Response Format
 
