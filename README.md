@@ -40,7 +40,7 @@ Software release documentation covering:
 - Bug Fixes
 - Known Issues
 
-  [Inventory Management System Release Notes v2.0](Release-Notes/Release-Final_version.md)
+  [Inventory Management System Release Notes Final Version](Release-Notes/Release-Final_version.md)
 
 ---
 
