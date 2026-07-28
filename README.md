@@ -2,9 +2,9 @@
 
 Welcome to my Technical Writing Portfolio.
 
-This repository showcases documentation samples that demonstrate my experience in creating clear, structured, and user-focused technical documentation.
+This repository showcases documentation samples demonstrating my technical writing skills across user documentation, API documentation, release notes, and knowledge base content.
 
-## Portfolio
+## Documentation Samples
 
 ### User Guide
 Comprehensive user documentation for an Inventory Management System.
@@ -40,7 +40,7 @@ Software release documentation covering:
 - Bug Fixes
 - Known Issues
 
-  [Inventory Management System Release Notes Final Version](Release-Notes/Release-Final_version.md)
+
 
 ---
 
@@ -61,14 +61,20 @@ Self-service articles including:
 - User Documentation
 - API Documentation
 - Release Notes
-- Knowledge Base Articles
 - Markdown
+- GitHub
 - Information Architecture
-- Structured Authoring
+- REST APIs
+- OpenAPI (Swagger)
 
----
+## Tools
 
-**Author**
+- Markdown
+- GitHub
+- Swagger/OpenAPI
+- VS Code
+- Postman
 
-Shilpa Sreedhar P
-Technical Writer
+## About Me
+
+Technical Writer with 3.5 years of experience creating SaaS product documentation, API documentation, release notes, and user guides.
